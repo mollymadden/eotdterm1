@@ -13,6 +13,7 @@ body {
 
 .opaque {
   width: 40vw;
+  height: 100vh;
   background-color: rgb(0,27,36);
   opacity: .7;
   text-align: center;
